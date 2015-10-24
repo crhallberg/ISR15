@@ -8,6 +8,7 @@
   <sprites name="sprites">
     <sprite>sprites\spr_circle</sprite>
     <sprite>sprites\spr_triangle</sprite>
+    <sprite>sprites\spr_rect</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
