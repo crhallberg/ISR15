@@ -7,11 +7,13 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\spr_circle</sprite>
+    <sprite>sprites\spr_triangle</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_joy_circle</object>
+    <object>objects\obj_new</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
